@@ -1,19 +1,22 @@
+/* add a background color for the header and footer by grouping the selectors*/
 header,footer {
 background-color:goldenrod;
 }
 
+/*choose a background color for the body, set the margins, and center align all the information in the body paragraph.*/
 body{
     text-align: center;
     margin: 50px;
     background-color: bisque;
 }
 
-
+/*group the p, and li selectors so they have matching fonts*/
 p, li{
     font-family: Papyrus;
     list-style-position: inside;
 }
 
+/*group the headings so they have matching fonts*/
 h1, h3{
     font-family:Copperplate;
 }
