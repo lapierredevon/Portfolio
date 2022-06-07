@@ -1,12 +1,15 @@
 /* add a background color for the header and footer by grouping the selectors*/
 header,footer {
 background-color:goldenrod;
+margin: 30px;
+height: 30px;
 }
 
 /*choose a background color for the body, set the margins, and center align all the information in the body paragraph.*/
 body{
     text-align: center;
     margin: 50px;
+    padding: 75px;
     background-color: bisque;
 }
 
@@ -14,6 +17,7 @@ body{
 p, li{
     font-family: Papyrus;
     list-style-position: inside;
+    font-size: 20px;
 }
 
 /*group the headings so they have matching fonts*/
