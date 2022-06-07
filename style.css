@@ -1,0 +1,22 @@
+header,footer {
+background-color:goldenrod;
+}
+
+body{
+    text-align: center;
+    margin: 50px;
+    background-color: bisque;
+}
+
+
+p, li{
+    font-family: Papyrus;
+    list-style-position: inside;
+}
+
+h1, h3{
+    font-family:Copperplate;
+}
+
+
+
